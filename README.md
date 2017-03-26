@@ -8,3 +8,4 @@ Made using GameMaker:Studio in 48 hours for the 20th gm(48) game jam.
 ---
 ## [Development Time-Lapse](https://www.youtube.com/watch?v=iUG4qwoHgy8)
 ## [Download (Win32)](http://www.gm48.net/game/?id=346)
+##### [(Alt. download mirror)](http://dl.blokatt.net/bin/0x0D/0x0D_jam.zip)
